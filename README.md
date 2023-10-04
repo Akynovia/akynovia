@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dudu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF0aXZ1Y2hubHh0MmxiMW93YXI0MnloanY5d2s1ZXlxM2FwazZ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Syl2p1AxdouiqMkFdl/giphy.gif" width="130">
-<p><em>Technologist in Computer Networks at <a href="http://www.ifap.edu.br">Instituto Federal do Amapá </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<img align='right' src="https://media.giphy.com/media/Sw6fiilaRDWz7KW5x5/giphy.gif" width="230">
+<p><em>Technologist in Computer Networks at <a href="http://www.ifap.edu.br">Instituto Federal do Amapá </a><img src="https://media.giphy.com/media/VdhTYle3b9a6jtO7FJ/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: dudulvst](https://img.shields.io/twitter/follow/dudulvst?style=social)](https://twitter.com/dudulvst)
