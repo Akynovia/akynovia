@@ -14,7 +14,6 @@
 const dudu = {
   code: [C++, C#, Java, Python, JavaScript],
   tools: [Vs Studio, Ghidra, Godot, Blender],
-  architecture: ["microservices", "event-driven"],
   askMeAbout: ["tech", "lover of TLOU", "photography"],
 }
 ```
