@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dudu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Dudu! </h2>
 <img align='right' src="https://media.giphy.com/media/Sw6fiilaRDWz7KW5x5/giphy.gif" width="230">
 <p><em>Technologist in Computer Networks at <a href="http://www.ifap.edu.br">Instituto Federal do Amapá </a><img src="https://media.giphy.com/media/VdhTYle3b9a6jtO7FJ/giphy.gif" width="30">
 </em></p>
