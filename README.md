@@ -12,7 +12,7 @@
 
 ```javascript
 const dudu = {
-  studying-codes: [C++, JavaScript],
+  studying: [C++, JavaScript],
   tools: [Vs Studio, Ghidra, Godot, Blender],
   askMeAbout: ["tech", "lover of TLOU", "photography"],
 }
