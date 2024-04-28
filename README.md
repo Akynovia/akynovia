@@ -2,7 +2,7 @@
 
 ```javascript
 const dudu = {
-  studying: [C#, C++],
+  studying: [C#],
   tools: [Vs Studio, Ghidra, Godot, Blender],
   askMeAbout: ["tech", "lover of TLOU", "photography"],
 }
