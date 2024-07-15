@@ -2,8 +2,8 @@
 
 ```javascript
 const dudu = {
-  studying: [C#],
-  tools: [Vs Studio, Ghidra, Godot, Blender],
+  studying: [Python, C++, C#],
+  tools: [Vs Studio, Godot, Blender],
   askMeAbout: ["tech", "lover of TLOU", "photography"],
 }
 ```
